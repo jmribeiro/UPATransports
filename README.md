@@ -10,7 +10,6 @@ Fernando Liça 77207 fernando9b@hotmail.com
 
 
 Repositório:
-[tecnico-distsys/T_23-project](https://github.com/tecnico-distsys/T_23-project/)
 
 -------------------------------------------------------------------------------
 
